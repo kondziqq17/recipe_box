@@ -17,8 +17,8 @@ gem 'simple_form', '~> 4.1'
 gem 'paperclip', '~> 6.1'
 gem 'bootstrap-sass', '~> 3.4', '>= 3.4.1'
 gem 'cocoon', '~> 1.2', '>= 1.2.12'
-
-
+gem 'pry', '~> 0.12.2'
+gem 'jquery-rails'
 
 # Reduces boot times through caching; required in config/boot.rb
 gem 'bootsnap', '>= 1.1.0', require: false
